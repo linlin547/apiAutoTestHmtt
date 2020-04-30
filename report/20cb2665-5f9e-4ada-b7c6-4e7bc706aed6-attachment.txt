@@ -1,0 +1,3 @@
+[32mINFO    [0m root:article.py:68 后台管理审核地址:http://ttapi.research.itcast.cn/mis/v1_0/articles
+[32mINFO    [0m root:article.py:69 后台管理审核body:{'article_ids': [1255666493958389760], 'status': 2}
+[32mINFO    [0m root:test_publish_article.py:112 后台管理审核文章返回数据:{'message': '"红茶绿茶还有什么茶" 文章不是待审核状态, 不能通过审核'}
